@@ -10,7 +10,6 @@ import guru.springframework.pets.PetService;
 import guru.springframework.pets.PetServiceFactory;
 import guru.springframework.sfgdi.repositories.EnglishGreetingRepository;
 import guru.springframework.sfgdi.repositories.EnglishGreetingRepositoryImpl;
-import guru.springframework.sfgdi.services.ConstructorGreetingService;
 import guru.springframework.sfgdi.services.I18NSpanishService;
 import guru.springframework.sfgdi.services.I18nEnglishGreetingService;
 import guru.springframework.sfgdi.services.PrimaryGreetingService;
